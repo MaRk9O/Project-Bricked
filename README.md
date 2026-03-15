@@ -10,7 +10,7 @@ Built-in password vault · Chrome & Edge autofill · Google Drive sync · One-cl
 [![License](https://img.shields.io/badge/license-MIT-ef4444?style=flat-square)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/MaRk9O/Project-Bricked?style=flat-square&color=ef4444&label=latest)](https://github.com/MaRk9O/Project-Bricked/releases/latest)
 
-[**Download Installer →**](https://github.com/MaRk9O/Project-Bricked/releases/latest) &nbsp;·&nbsp; [Website](https://mark9o.github.io/Project-Bricked) &nbsp;·&nbsp; [Report a Bug](https://github.com/MaRk9O/Project-Bricked/issues)
+[**Download Installer →**](https://github.com/MaRk9O/Project-Bricked/releases/latest) &nbsp;·&nbsp; [Website](https://projectbricked.free.nf) &nbsp;·&nbsp; [Report a Bug](https://github.com/MaRk9O/Project-Bricked/issues)
 
 </div>
 
